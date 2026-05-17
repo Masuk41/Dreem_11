@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "player_image": "https://i.ibb.co.com/DZG3Mht/skysports-shakib-al-hasan-bangladesh-5554195.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 92,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "৳80,00,000"
+  },
+  {
+    "id": 2,
+    "player_image": "https://i.ibb.co.com/9m0cyxVr/Tamim-Iqbal-1.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batter",
+    "rating": 88,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "৳80,00,000"
+  },
+  {
+    "id": 3,
+    "player_image": "https://www.espncricinfo.com/cricketers/mushfiqur-rahim-34564",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicket-keeper Batter",
+    "rating": 87,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "৳80,00,000"
+  },
+  {
+    "id": 4,
+    "player_image": "https://www.espncricinfo.com/cricketers/mustafizur-rahman-696834",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 86,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Left-arm fast-medium",
+    "price": "৳80,00,000"
+  },
+  {
+    "id": 5,
+    "player_image": "https://www.espncricinfo.com/cricketers/taskin-ahmed-577775",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 84,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "৳80,00,000"
+  },
+  {
+    "id": 6,
+    "player_image": "https://www.espncricinfo.com/cricketers/mehidy-hasan-miraz-823685",
+    "player_name": "Mehidy Hasan Miraz",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 83,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "৳80,00,000"
+  },
+  {
+    "id": 7,
+    "player_image": "https://www.espncricinfo.com/cricketers/alex-hales-371971",
+    "player_name": "Alex Hales",
+    "player_country": "England",
+    "playing_role": "Batter",
+    "rating": 85,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$75,000"
+  },
+  {
+    "id": 8,
+    "player_image": "https://www.espncricinfo.com/cricketers/moeen-ali-229238",
+    "player_name": "Moeen Ali",
+    "player_country": "England",
+    "playing_role": "All-rounder",
+    "rating": 86,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm off-break",
+    "price": "$75,000"
+  },
+  {
+    "id": 9,
+    "player_image": "https://www.espncricinfo.com/cricketers/johnson-charles-507912",
+    "player_name": "Johnson Charles",
+    "player_country": "West Indies",
+    "playing_role": "Batter",
+    "rating": 81,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "$75,000"
+  },
+  {
+    "id": 10,
+    "player_image": "https://www.espncricinfo.com/cricketers/thisara-perera-308967",
+    "player_name": "Thisara Perera",
+    "player_country": "Sri Lanka",
+    "playing_role": "All-rounder",
+    "rating": 80,
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "$75,000"
+  },
+  {
+    "id": 11,
+    "player_image": "https://www.espncricinfo.com/cricketers/shahnawaz-dahani-1182421",
+    "player_name": "Shahnawaz Dahani",
+    "player_country": "Pakistan",
+    "playing_role": "Bowler",
+    "rating": 82,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "$75,000"
+  },
+  {
+    "id": 12,
+    "player_image": "https://www.espncricinfo.com/cricketers/liton-das-779476",
+    "player_name": "Liton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicket-keeper Batter",
+    "rating": 84,
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium",
+    "price": "৳80,00,000"
+  }
+]
