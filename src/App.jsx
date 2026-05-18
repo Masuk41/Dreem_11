@@ -1,11 +1,11 @@
 import { Suspense, useState } from "react";
-import Navbar from "./Components/Navbar/Navbar";
-import AvailablePlayers from "./Components/AvailablePlayers/AvailablePlayers";
-import SelectedPlayers from "./Components/SelectedPlayers/SelectedPlayers";
+import Navbar from "./components/Navbar/Navbar";
+import AvailablePlayers from "./components/AvailablePlayers/AvailablePlayers";
 import "./App.css";
 import { ToastContainer } from "react-toastify";
-import Footer from "./Components/Footer/Footer";
-import HeroCard from "./Components/HeroSection/HeroCard";
+import Footer from "./components/Footer/Footer";
+import HeroCard from "./components/Herosection/HeroCard";
+import SelectedPlayers from "./components/selectedPlayers/SelectedPlayers";
 
 const fetchPlayer = async () => {
   const res = await fetch("./players.json");
@@ -80,6 +80,7 @@ function App() {
           setToggle={setToggle}
         />
       )}
+
       <Footer />
       <ToastContainer />
     </>
